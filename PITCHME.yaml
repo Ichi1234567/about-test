@@ -1,0 +1,4 @@
+theme-override : assets/styles/PITCHME.css
+layout: top-left
+vertical-center : false
+mathjax: TeX-MML-AM_HTMLorMML-full
