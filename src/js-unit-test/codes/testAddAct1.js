@@ -1,7 +1,7 @@
 // action
 const todoList = [];
 function addTodo(item) { todoList.push(item); }
-function getTodoList { return todoList; }
+function getTodoList() { return todoList; }
 
 // test
 //expect(addTodo(fakeItem)).?
